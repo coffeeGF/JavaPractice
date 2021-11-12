@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HwjResume:war">
+    <output-path>$PROJECT_DIR$/HwjResume/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HwjResume</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HwjResume.war">
+      <element id="artifact" artifact-name="HwjResume:war exploded" />
+    </root>
+  </artifact>
+</component>
